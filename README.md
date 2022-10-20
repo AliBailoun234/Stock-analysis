@@ -9,7 +9,11 @@ At a click of a button, the project would analyze one to tens of different stock
 
 ### Results
 	Stock perfomance in 2018 was better than 2017
-Nearly all (10 / 12) stocks out performed themselves in 2018 over 2017. Only tickers (RUN) and (TERP) had lesser returns in 2018 than in 2017. 
+Nearly all (10 / 12) stocks out performed themselves in 2017 over 2018. Only tickers (RUN) and (TERP) had lesser returns in 2017 than in 2018. 
+This might indicate that, perhaps, the overall economy, or atleast the selected sector, had faced a decline and recession in 2018.
+If we were to focus solely on "DQ" Ticker, as selected through module 2, we would see that it faced a huge decline on return from 2017 to 2018.
+ 
+
 
 The same code was used to analyze both 2017 and 2018 years, in both the original and refactored scripts.
 
@@ -17,3 +21,8 @@ The same code was used to analyze both 2017 and 2018 years, in both the original
 	Shorter run time, lesser code used and looks better.
 The refactored script had a better execution time over the original script, as shown in these two images in 2017. 
 ![This image is from the refactored script](https://github.com/AliBailoun234/Stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
+![This image is from the original script](https://github.com/AliBailoun234/Stock-analysis/blob/main/Extra_Resources/2017_Original_Script.png)
+The first image is from the refactored script, while the second image is from the original script. They clearly show how with a refactored script, execution time decreases significantly. 
+This difference sometimes adds up to a difference of one second between the original and refactored script. 2018 also had a small execution time as shown in the following image.
+![This image is from the refactored script](https://github.com/AliBailoun234/Stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
+As shown, it took less than 0.2 seconds to analyze a list of stocks over a certain year. 
