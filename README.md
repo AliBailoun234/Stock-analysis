@@ -8,7 +8,7 @@ The purpose behind the project was by using different VBA formulas and functions
 At a click of a button, the project would analyze one to tens of different stocks, at any given year, analyzing key data such as the return of an example stock.
 
 ### Results
-	Stock perfomance in 2018 was better than 2017
+	Stock perfomance in 2017 was better than 2018
 Nearly all (10 / 12) stocks out performed themselves in 2017 over 2018. Only tickers (RUN) and (TERP) had lesser returns in 2017 than in 2018. 
 This might indicate that, perhaps, the overall economy, or atleast the selected sector, had faced a decline and recession in 2018.
 If we were to focus solely on "DQ" Ticker, as selected through module 2, we would see that it faced a huge decline on return from 2017 to 2018.
@@ -27,7 +27,7 @@ The refactored script had a better execution time over the original script, as s
 The first image is from the refactored script, while the second image is from the original script. They clearly show how with a refactored script, execution time decreases significantly. 
 This difference sometimes adds up to a difference of one second between the original and refactored script. 2018 also had a small execution time as shown in the following image.
 ![This image is from the refactored script](https://github.com/AliBailoun234/Stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
-As shown, it took less than 0.2 seconds to analyze a list of stocks over a certain year. 
+It took less than 0.2 seconds to analyze a list of stocks in 2018. 
 
 
 ### Summary
